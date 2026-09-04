@@ -5,3 +5,4 @@
 2026-08-31 18:37 | Backend | HOTFIX-HK-13308-fixing-tenure-issue
 2026-08-31 18:49 | OperationsManager | refactor-phone-verfication-taslk
 2026-09-02 14:24 | Backend | HOTFIX-HK-13359-d-days-discount-fix-for-bbps
+2026-09-04 08:35 | OperationsManager | refactor-phone-verfication-taslk
