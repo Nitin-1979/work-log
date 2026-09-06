@@ -9,3 +9,4 @@
 2026-09-04 08:54 | OperationsManager | refactor-phone-verfication-taslk
 2026-09-04 09:19 | OperationsManager | refactor-phone-verfication-taslk
 2026-09-04 10:30 | OperationsManager | HOTFIX-HK-13411-adding-voice-recording-and-issue-name-for-tickets-for-maas
+2026-09-06 19:07 | Backend | HOTFIX-HK-13420-l5-driver-discount-fix
