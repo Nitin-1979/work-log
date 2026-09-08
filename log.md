@@ -15,3 +15,4 @@
 2026-09-08 13:17 | Backend | HOTFIX-HK-13453-vehicle-telemetry-cron
 2026-09-08 15:18 | Backend | HK-12992-split-emi
 2026-09-08 17:15 | Backend | HK-12992-split-emi
+2026-09-08 17:41 | Backend | HOTFIX-HK-13469-fixing-issue-with-tenure
