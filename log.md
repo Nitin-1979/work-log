@@ -21,3 +21,4 @@
 2026-09-08 17:59 | Backend | HK-12992-split-emi
 2026-09-08 19:49 | Backend | HK-12992-split-emi
 2026-09-09 01:00 | Backend | HOTFIX-HK-13453-vehicle-telemetry-cron
+2026-09-09 01:17 | Backend | HOTFIX-HK-13423-mandate-token-saniztation-cron
