@@ -28,3 +28,4 @@
 2026-09-09 10:10 | Backend | dev
 2026-09-09 11:52 | Backend | HOTFIX-HK-13482-build-fix
 2026-09-09 11:59 | Backend | HOTFIX-HK-13482-build-fix
+2026-09-09 14:05 | Backend | HOTFIX-HK-13489-telemetry-cron-changes
