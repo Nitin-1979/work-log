@@ -38,3 +38,4 @@
 2026-09-10 10:14 | Backend | HOTFIX-HK-13522-weekly-sub-configure
 2026-09-10 10:21 | Backend | HOTFIX-HK-13523-fixing-discount-config-set-0-for-swap-and-fin
 2026-09-10 13:03 | tms-frontend | entity-subscrption
+2026-09-10 13:06 | piggybank | entity-subscrption
