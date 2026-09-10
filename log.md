@@ -41,3 +41,4 @@
 2026-09-10 13:06 | piggybank | entity-subscrption
 2026-09-10 16:25 | Backend | HOTFIX-HK-13523-fixing-discount-config-set-0-for-swap-and-fin
 2026-09-10 16:30 | OperationsManager | HOTFIX-HK-13508-telemetry-cron
+2026-09-10 16:36 | Backend | HOTFIX-HK-13522-weekly-sub-configure
