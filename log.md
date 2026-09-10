@@ -34,3 +34,4 @@
 2026-09-10 08:54 | Backend | HOTFIX-HK-13520-reverting-discount-0-for-rental-driver
 2026-09-10 09:05 | Backend | HOTFIX-HK-13521-cron-fix-for-ist-date
 2026-09-10 09:18 | OperationsManager | HOTFIX-HK-13411-adding-voice-recording-and-issue-name-for-tickets-for-maas
+2026-09-10 09:48 | OperationsManager | HOTFIX-HK-13411-adding-voice-recording-and-issue-name-for-tickets-for-maas
