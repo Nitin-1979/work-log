@@ -47,3 +47,4 @@
 2026-09-11 16:28 | piggybank | HOTFIX-HK-13573-fixing-settle-logic-for-l5
 2026-09-14 09:56 | OperationsManager | aadhar_task_refactoring
 2026-09-14 10:55 | Backend | HOTFIX-HK-13507-adding-sanization-on-telemetry-con
+2026-09-14 11:11 | OperationsManager | HOTFIX-HK-13508-telemetry-cron
