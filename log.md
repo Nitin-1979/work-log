@@ -64,3 +64,4 @@
 2026-09-15 01:02 | Backend | HOTFIX-HK-13622-indexing-db-for-acephone
 2026-09-15 10:03 | OperationsManager | HOTFIX-HK-13625-fixing-resolve
 2026-09-15 12:46 | Backend | HOTFIX-HK-13634-telemetry-cron-to-35sev
+2026-09-15 13:14 | Backend | HOTFIX-HK-13636-acephone-restructure
