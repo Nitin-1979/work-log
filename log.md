@@ -69,3 +69,4 @@
 2026-09-16 13:02 | Backend | HOTFIX-HK-13666-adding-refund-bank-details-to-driverpayment-also
 2026-09-16 14:18 | Backend | HOTFIX-HK-13666-adding-refund-bank-details-to-driverpayment-also
 2026-09-16 14:45 | OperationsManager | HOTFIX-HK-13673-phone-number-verfication-task
+2026-09-16 15:06 | Backend | HOTFIX-HK-13676-indexing-vehiclebatterytelemetry
