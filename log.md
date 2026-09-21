@@ -71,3 +71,4 @@
 2026-09-16 14:45 | OperationsManager | HOTFIX-HK-13673-phone-number-verfication-task
 2026-09-16 15:06 | Backend | HOTFIX-HK-13676-indexing-vehiclebatterytelemetry
 2026-09-17 13:02 | tms-frontend | entity-subscrption
+2026-09-21 10:33 | OperationsManager | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
