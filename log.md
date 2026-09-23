@@ -81,3 +81,4 @@
 2026-09-22 13:56 | OperationsManager | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
 2026-09-22 16:53 | OperationsManager | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
 2026-09-23 10:47 | tms-frontend | entity-subscrption
+2026-09-23 10:53 | Backend | entity-subscrption
