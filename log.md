@@ -104,3 +104,4 @@
 2026-09-24 16:57 | tms-frontend | HK-13135-dis-enity-sub
 2026-09-24 17:22 | OperationsManager | HOTFIX-HK-13845-fixing-expired-s3-links-by-refresh
 2026-09-24 17:25 | OperationsManager | HOTFIX-HK-13845-fixing-expired-s3-links-by-refresh
+2026-09-24 17:47 | OperationsManager | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
