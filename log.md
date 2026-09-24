@@ -107,3 +107,4 @@
 2026-09-24 17:47 | OperationsManager | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
 2026-09-24 23:26 | Backend | HK-13135-dis-enity-sub
 2026-09-24 23:27 | Backend | HK-13135-dis-enity-sub
+2026-09-25 00:30 | Backend | HOTFIX-HK-13849-col-name-change-in-payment-link-logs
