@@ -121,3 +121,4 @@
 2026-09-25 16:33 | Backend | HOTFIX-HK-13874-app-version-update-for-l5-driver
 2026-09-28 13:56 | Backend | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
 2026-09-28 15:41 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
+2026-09-28 15:43 | piggybank | HK-13124-da---surface-early-payment-discount-on-payment-scr
