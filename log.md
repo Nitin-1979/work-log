@@ -138,3 +138,4 @@
 2026-09-28 20:15 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
 2026-09-28 20:37 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
 2026-09-29 11:04 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
+2026-09-29 12:25 | Backend | HOTFIX-HK-13939-attendance-flow-fix
