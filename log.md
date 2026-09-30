@@ -149,3 +149,4 @@
 2026-09-30 14:46 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
 2026-09-30 14:53 | driver-app-webview | HOTFIX-HK-13976-extending-driver-payment-for-maas-driver
 2026-09-30 15:46 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
+2026-09-30 16:15 | Backend | HOTFIX-HK-13984-shorten-url-for-driver-payment-link
