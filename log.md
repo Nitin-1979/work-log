@@ -141,3 +141,4 @@
 2026-09-29 12:25 | Backend | HOTFIX-HK-13939-attendance-flow-fix
 2026-09-30 10:55 | Backend | HOTFIX-HK-13963-fixing-issue-with-non-baas-subs-added
 2026-09-30 11:23 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
+2026-09-30 11:39 | Frontend | HOTFIX-HK-13964-action-button-for-security-modal
