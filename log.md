@@ -160,3 +160,4 @@
 2026-09-30 20:59 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
 2026-09-30 22:51 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
 2026-09-30 23:10 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
+2026-10-01 00:17 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
