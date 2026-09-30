@@ -146,3 +146,4 @@
 2026-09-30 13:10 | Backend | HOTFIX-HK-13973-token-details-visibility
 2026-09-30 13:12 | tms-frontend | HOTFIX-HK-13973-token-details-visibility
 2026-09-30 14:45 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
+2026-09-30 14:46 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
