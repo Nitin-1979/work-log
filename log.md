@@ -143,3 +143,4 @@
 2026-09-30 11:23 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
 2026-09-30 11:39 | Frontend | HOTFIX-HK-13964-action-button-for-security-modal
 2026-09-30 12:08 | Backend | HOTFIX-HK-13968-referal-payout-for-both-baas-drivers
+2026-09-30 13:10 | Backend | HOTFIX-HK-13973-token-details-visibility
