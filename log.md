@@ -162,3 +162,4 @@
 2026-09-30 23:10 | OperationsManager | HOTFIX-HK-13966-baas-rental-onboarding-aggreement
 2026-10-01 00:17 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
 2026-10-01 00:18 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
+2026-10-01 01:02 | Backend | HOTFIX-HK-13992-adding-baas-rental-for-drivertype
