@@ -163,3 +163,4 @@
 2026-10-01 00:17 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
 2026-10-01 00:18 | Backend | HK-13124-da---surface-early-payment-discount-on-payment-scr
 2026-10-01 01:02 | Backend | HOTFIX-HK-13992-adding-baas-rental-for-drivertype
+2026-10-01 14:27 | Backend | HOTFIX-HK-13849-col-name-change-in-payment-link-logs
