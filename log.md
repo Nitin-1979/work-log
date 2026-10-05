@@ -176,3 +176,4 @@
 2026-10-05 10:41 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
 2026-10-05 10:42 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
 2026-10-05 15:24 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
+2026-10-05 15:46 | Backend | HOTFIX-HK-14046-late-fee-string-fix-for-l5
