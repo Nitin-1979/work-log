@@ -177,3 +177,4 @@
 2026-10-05 10:42 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
 2026-10-05 15:24 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
 2026-10-05 15:46 | Backend | HOTFIX-HK-14046-late-fee-string-fix-for-l5
+2026-10-05 17:29 | asset-service | HK-13945-be---maas---change-chassis-no-source-on-cms
