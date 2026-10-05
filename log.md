@@ -171,3 +171,4 @@
 2026-10-01 17:37 | Backend | HK-13135-dis-enity-sub
 2026-10-03 13:31 | driver-app-webview | HOTFIX-HK-14030-fixing-doubel-discount-for-2wlto-driver-on-ui-only
 2026-10-03 14:03 | Backend | HOTFIX-HK-14029-fixing-rental-discount-issue
+2026-10-05 10:35 | Backend | HOTFIX-HK-14035-autopaymandate-token-cron-fix
