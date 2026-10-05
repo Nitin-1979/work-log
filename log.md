@@ -175,3 +175,4 @@
 2026-10-05 10:37 | Backend | HOTFIX-HK-14035-autopaymandate-token-cron-fix
 2026-10-05 10:41 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
 2026-10-05 10:42 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
+2026-10-05 15:24 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
