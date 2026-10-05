@@ -180,3 +180,4 @@
 2026-10-05 17:29 | asset-service | HK-13945-be---maas---change-chassis-no-source-on-cms
 2026-10-05 17:48 | tms-frontend | HK-13945-be---maas---change-chassis-no-source-on-cms
 2026-10-05 17:49 | Backend | HK-13945-be---maas---change-chassis-no-source-on-cms
+2026-10-05 18:28 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
