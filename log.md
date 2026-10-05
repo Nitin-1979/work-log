@@ -179,3 +179,4 @@
 2026-10-05 15:46 | Backend | HOTFIX-HK-14046-late-fee-string-fix-for-l5
 2026-10-05 17:29 | asset-service | HK-13945-be---maas---change-chassis-no-source-on-cms
 2026-10-05 17:48 | tms-frontend | HK-13945-be---maas---change-chassis-no-source-on-cms
+2026-10-05 17:49 | Backend | HK-13945-be---maas---change-chassis-no-source-on-cms
