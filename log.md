@@ -173,3 +173,4 @@
 2026-10-03 14:03 | Backend | HOTFIX-HK-14029-fixing-rental-discount-issue
 2026-10-05 10:35 | Backend | HOTFIX-HK-14035-autopaymandate-token-cron-fix
 2026-10-05 10:37 | Backend | HOTFIX-HK-14035-autopaymandate-token-cron-fix
+2026-10-05 10:41 | Backend | HOTFIX-HK-14006-feature-order-and-mandate-handling-differently
