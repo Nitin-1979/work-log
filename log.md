@@ -192,3 +192,4 @@
 2026-10-06 14:25 | tms-frontend | HOTFIX-HK-14075-manual-reason-in-driver-wallet-tms-display
 2026-10-06 14:26 | piggybank | HOTFIX-HK-14075-manual-reason-in-driver-wallet-tms-display
 2026-10-06 14:28 | Backend | HOTFIX-HK-14075-manual-reason-in-driver-wallet-tms-display
+2026-10-06 15:43 | Backend | HOTFIX-HK-14077-contract-issue-on-assest-service-fix
