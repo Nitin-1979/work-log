@@ -188,3 +188,4 @@
 2026-10-06 10:56 | Backend | HOTFIX-HK-14062-fixing-issue-with-200rs-discount-for-2wlto
 2026-10-06 11:42 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
 2026-10-06 11:49 | Backend | HOTFIX-HK-14069-fixing-issue-with-driver-token
+2026-10-06 11:50 | Backend | HOTFIX-HK-14069-fixing-issue-with-driver-token
