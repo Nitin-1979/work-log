@@ -186,3 +186,4 @@
 2026-10-05 18:57 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
 2026-10-06 10:16 | Backend | HOTFIX-HK-13984-shorten-url-for-driver-payment-link
 2026-10-06 10:56 | Backend | HOTFIX-HK-14062-fixing-issue-with-200rs-discount-for-2wlto
+2026-10-06 11:42 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
