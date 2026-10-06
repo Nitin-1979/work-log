@@ -184,3 +184,4 @@
 2026-10-05 18:40 | Backend | HOTFIX-HK-14046-late-fee-string-fix-for-l5
 2026-10-05 18:45 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
 2026-10-05 18:57 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
+2026-10-06 10:16 | Backend | HOTFIX-HK-13984-shorten-url-for-driver-payment-link
