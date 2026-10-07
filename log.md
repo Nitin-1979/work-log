@@ -210,3 +210,4 @@
 2026-10-07 18:01 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
 2026-10-07 18:43 | Backend | HOTFIX-HK-14107-fixing-issue-with-montly-sub-configure
 2026-10-07 18:49 | Backend | HOTFIX-HK-14109-monthly-sub-configure-for-baas
+2026-10-07 18:51 | Backend | HOTFIX-HK-14110-monthly-sub-configure
