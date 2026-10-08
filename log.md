@@ -228,3 +228,4 @@
 2026-10-08 23:15 | Backend | HOTFIX-HK-14137-adding-invoice-id
 2026-10-08 23:21 | Backend | HOTFIX-HK-14137-adding-invoice-id
 2026-10-08 23:57 | OperationsManager | HOTFIX-HK-14059-secert-manager-migration
+2026-10-09 00:16 | OperationsManager | HOTFIX-HK-14140-removing-promotheus-from-prod
