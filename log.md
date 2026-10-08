@@ -231,3 +231,4 @@
 2026-10-09 00:16 | OperationsManager | HOTFIX-HK-14140-removing-promotheus-from-prod
 2026-10-09 00:29 | OperationsManager | HOTFIX-HK-14140-removing-promotheus-from-prod
 2026-10-09 00:30 | OperationsManager | HOTFIX-HK-14140-removing-promotheus-from-prod
+2026-10-09 01:04 | OperationsManager | HK-14066-rsa-refund-manual
