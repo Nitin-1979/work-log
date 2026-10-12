@@ -244,3 +244,4 @@
 2026-10-09 15:21 | OperationsManager | HK-14066-rsa-refund-manual
 2026-10-10 10:39 | Backend | HOTFIX-HK-14137-adding-invoice-id
 2026-10-10 10:42 | Backend | HOTFIX-HK-14137-adding-invoice-id
+2026-10-12 15:04 | OperationsManager | HOTFIX-HK-14180-fixing-agreement-issue
