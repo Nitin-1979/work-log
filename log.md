@@ -245,3 +245,4 @@
 2026-10-10 10:39 | Backend | HOTFIX-HK-14137-adding-invoice-id
 2026-10-10 10:42 | Backend | HOTFIX-HK-14137-adding-invoice-id
 2026-10-12 15:04 | OperationsManager | HOTFIX-HK-14180-fixing-agreement-issue
+2026-10-12 23:12 | OperationsManager | HOTFIX-HK-14151-fxing-us-east-2-to-ap-south-1
