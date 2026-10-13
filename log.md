@@ -255,3 +255,4 @@
 2026-10-13 11:33 | OperationsManager | HOTFIX-HK-14206-kind-flag-fix
 2026-10-13 11:34 | tms-frontend | HOTFIX-HK-14206-kind-flag-fix
 2026-10-13 14:14 | tms-frontend | HOTFIX-HK-14206-kind-flag-fixes
+2026-10-13 15:14 | Backend | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
