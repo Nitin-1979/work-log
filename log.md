@@ -259,3 +259,4 @@
 2026-10-13 23:02 | OperationsManager | HOTFIX-HK-14235-complaint-id-verfication-check
 2026-10-13 23:09 | OperationsManager | HOTFIX-HK-14151-fxing-us-east-2-to-ap-south-1
 2026-10-13 23:29 | Backend | HK-14066-rsa-refund-manual
+2026-10-13 23:51 | Backend | HOTFIX-HK-14236-fixing-s3-dev-permission-issue
