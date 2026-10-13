@@ -257,3 +257,4 @@
 2026-10-13 14:14 | tms-frontend | HOTFIX-HK-14206-kind-flag-fixes
 2026-10-13 15:14 | Backend | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
 2026-10-13 23:02 | OperationsManager | HOTFIX-HK-14235-complaint-id-verfication-check
+2026-10-13 23:09 | OperationsManager | HOTFIX-HK-14151-fxing-us-east-2-to-ap-south-1
