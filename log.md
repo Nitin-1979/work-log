@@ -263,3 +263,4 @@
 2026-10-13 23:58 | OperationsManager | HOTFIX-HK-14236-fixing-s3-dev-permission-issue
 2026-10-14 00:07 | OperationsManager | HOTFIX-HK-14066-rsa-refund-manual
 2026-10-14 15:20 | OperationsManager | adding-fixture-in-dev
+2026-10-14 18:33 | Backend | HOTFIX-HK-14228
