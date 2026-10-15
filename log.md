@@ -269,3 +269,4 @@
 2026-10-14 20:13 | Backend | HOTFIX-HK-14228
 2026-10-15 17:57 | OperationsManager | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
 2026-10-15 17:58 | OperationsManager | HK-12184-Ticket-Assign-to-Self-for-all-USC-after-authentication
+2026-10-15 18:04 | Backend | HOTFIX-HK-14281-fixing-issue-with-paise-on-cms-fo
