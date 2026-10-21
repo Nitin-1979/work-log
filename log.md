@@ -277,3 +277,4 @@
 2026-10-19 20:09 | Backend | HOTFIX-HK-14344-rzp-success-issue
 2026-10-21 23:38 | OperationsManager | HOTFIX-HK-14369-moving-pdf-gem-to-docker
 2026-10-22 00:20 | OperationsManager | HOTFIX-HK-14369-moving-pdf-gem-to-docker
+2026-10-22 01:12 | OperationsManager | HOTFIX-HK-14375-fixing-local-file-access
