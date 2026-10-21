@@ -278,3 +278,4 @@
 2026-10-21 23:38 | OperationsManager | HOTFIX-HK-14369-moving-pdf-gem-to-docker
 2026-10-22 00:20 | OperationsManager | HOTFIX-HK-14369-moving-pdf-gem-to-docker
 2026-10-22 01:12 | OperationsManager | HOTFIX-HK-14375-fixing-local-file-access
+2026-10-22 01:42 | OperationsManager | HOTFIX-HK-14376-reverting-docker-pdf
