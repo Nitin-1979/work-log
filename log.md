@@ -275,3 +275,4 @@
 2026-10-16 16:48 | OperationsManager | HOTFIX-HK-14302-gem-upgrade
 2026-10-16 17:35 | Backend | HOTFIX-HK-14308-fixing-scan-for-baas-drivers
 2026-10-19 20:09 | Backend | HOTFIX-HK-14344-rzp-success-issue
+2026-10-21 23:38 | OperationsManager | HOTFIX-HK-14369-moving-pdf-gem-to-docker
