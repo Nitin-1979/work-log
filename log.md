@@ -286,3 +286,4 @@
 2026-10-22 18:48 | OperationsManager | HOTFIX-HK-14393-gem-changes
 2026-10-22 19:00 | OperationsManager | HOTFIX-HK-14393-gem-changes
 2026-10-23 00:38 | OperationsManager | HOTFIX-HK-14393-gem-changes
+2026-10-23 01:32 | OperationsManager | HOTFIX-HK-14414-fixing-upgrade-issue
