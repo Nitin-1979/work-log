@@ -294,3 +294,4 @@
 2026-10-26 13:18 | OperationsManager | HOTFIX-HK-14457-auth-on-ops-routes-from-backend
 2026-10-26 16:53 | OperationsManager | HK-14396-Auto-update-allowed-count
 2026-10-26 17:53 | OperationsManager | HK-14396-Auto-update-allowed-count
+2026-10-26 22:47 | Backend | HOTFIX-HK-14457-auth-on-ops-routes-from-backend
