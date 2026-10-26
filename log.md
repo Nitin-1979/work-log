@@ -292,3 +292,4 @@
 2026-10-24 14:26 | OperationsManager | HOTFIX-HK-14444-fixing-multiple-doc-error
 2026-10-26 13:17 | Backend | HOTFIX-HK-14457-auth-on-ops-routes-from-backend
 2026-10-26 13:18 | OperationsManager | HOTFIX-HK-14457-auth-on-ops-routes-from-backend
+2026-10-26 16:53 | OperationsManager | HK-14396-Auto-update-allowed-count
