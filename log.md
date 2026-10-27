@@ -298,3 +298,4 @@
 2026-10-26 22:48 | OperationsManager | HOTFIX-HK-14457-auth-on-ops-routes-from-backend
 2026-10-27 00:37 | Backend | HOTFIX-HK-14457-auth-on-ops-routes-from-backend
 2026-10-27 01:20 | OperationsManager | HOTFIX-HK-14487-adding-auth-for-detect
+2026-10-27 10:56 | Backend | HOTFIX-HK-14489-fixing-issue-with-ops-token
