@@ -308,3 +308,4 @@
 2026-10-27 20:06 | tms-frontend | akatsuki
 2026-10-27 20:08 | tms-frontend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail
 2026-10-28 00:15 | Backend | HOTFIX-HK-14528-adding-hashvalidatorforoperationsmanager-to-ops
+2026-10-28 13:36 | business-website-v2 | HOTFIX-HK-14543-fixing-upload-url
