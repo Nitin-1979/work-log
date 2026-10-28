@@ -311,3 +311,4 @@
 2026-10-28 13:36 | business-website-v2 | HOTFIX-HK-14543-fixing-upload-url
 2026-10-28 15:16 | Backend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail
 2026-10-28 20:10 | Backend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail-v2
+2026-10-28 20:31 | tms-frontend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail
