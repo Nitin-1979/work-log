@@ -316,3 +316,4 @@
 2026-10-29 12:35 | Backend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail-v2
 2026-10-29 17:29 | OperationsManager | HOTFIX-HK-14581-maas-aggrement-changes
 2026-10-29 17:55 | Backend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail-v2
+2026-10-29 18:29 | tms-frontend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail
