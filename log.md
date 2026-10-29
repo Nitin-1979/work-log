@@ -313,3 +313,4 @@
 2026-10-28 20:10 | Backend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail-v2
 2026-10-28 20:31 | tms-frontend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail
 2026-10-28 20:36 | tms-frontend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail
+2026-10-29 12:35 | Backend | HOTFIX-HK-14514-special-discount-for-l5-and-2w-retail-v2
