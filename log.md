@@ -363,3 +363,4 @@
 2026-11-05 12:23 | Backend | HK-14596-teiring-vechiles
 2026-11-05 13:31 | OperationsManager | HK-14596-teiring-vechiles
 2026-11-05 20:03 | Backend | HOTFIX-HK-14738-docker-opti
+2026-11-10 13:23 | Backend | HOTFIX-HK-14781-fixing-issue-with-discount-get
