@@ -367,3 +367,4 @@
 2026-11-11 04:19 | OperationsManager | HK-14396-Auto-update-allowed-count
 2026-11-11 04:22 | OperationsManager | HK-14396-Auto-update-allowed-count
 2026-11-11 12:36 | tms-frontend | HOTFIX-HK-14804-adding-download-report-for-payment-screen
+2026-11-11 12:37 | Frontend | HOTFIX-HK-14804-adding-download-report-for-payment-screen
