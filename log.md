@@ -408,3 +408,4 @@
 2026-11-17 23:53 | Backend | HOTFIX-HK-14956-fixing-autopay-debit
 2026-11-18 00:11 | OperationsManager | HOTFIX-HK-14958-fixing-vehicle-tier-bug
 2026-11-18 00:29 | ionman | HOTFIX-HK-14959-fixing-security-scheme
+2026-11-18 00:42 | OperationsManager | HOTFIX-HK-14960-fixing-amount-paid-0-bug
