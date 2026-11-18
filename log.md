@@ -419,3 +419,4 @@
 2026-11-18 12:25 | OperationsManager | HOTFIX-HK-14967-adding-check-on-tier-type
 2026-11-18 12:30 | OperationsManager | HOTFIX-HK-14967-adding-check-on-tier-type
 2026-11-18 12:32 | OperationsManager | HOTFIX-HK-14967-adding-check-on-tier-type
+2026-11-18 20:10 | OperationsManager | HOTFIX-HK-14978-fixing-issue-with-cond
